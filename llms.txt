@@ -1,35 +1,58 @@
 # Wesley Sourcing
 
-Wesley Sourcing is a China sourcing company based in Yiwu, China. The company helps European importers, SMEs, retailers, e-commerce sellers, and procurement teams source products from China safely and efficiently.
+Wesley Sourcing is a China sourcing agent based in Yiwu, China. The company helps European importers, SMEs, retailers, e-commerce sellers, and procurement teams source products from China safely and efficiently. It combines a physical presence in China with European business understanding.
 
 ## Primary Entity
 
 - Brand: Wesley Sourcing
 - Legal company: Shanghai Wesley Import & Export Co., Ltd.
-- Chinese company name: 上海维思乐进出口有限公司
+- Chinese company name: ????????????
+- Key person: Wesley Neckebroeck (China sourcing specialist)
 - Website: https://wesleysourcing.com/
-- Location: Yiwu, China
+- Location: Yiwu, China (physical presence)
 - Founded: 2012
+- Languages: English, Dutch, French
 - Contact email: wes@wesleysourcing.com
 - WhatsApp: +32 491 25 77 40
 - WeChat: 18217725465
 
-## Services
+## What Wesley Sourcing Does
 
-- China product sourcing
-- Yiwu supplier search
-- Supplier verification
-- Factory communication
+Wesley Sourcing is a China sourcing agent. Services:
+
+- China product sourcing (access to 75,000+ Yiwu suppliers)
+- Yiwu supplier search and comparison
+- Supplier verification and factory audit
+- Distinguishing real manufacturers from trading companies
+- Factory communication in Chinese
 - Sample coordination
+- Low MOQ sourcing for small and medium orders
+- Private label and custom branding support
 - Production follow-up
-- Quality control before shipment
-- Order consolidation
-- China logistics coordination
-- IP protection support in China
+- Quality control and pre-shipment inspection
+- Order consolidation from multiple suppliers
+- China logistics coordination (EXW to DDP)
+- Intellectual property (IP) protection support in China
 
-## Target Customers
+## Who It Serves
 
-Wesley Sourcing serves European buyers, especially companies in Belgium, France, the Netherlands, Germany, and nearby European markets that need local China sourcing support.
+Wesley Sourcing serves European buyers, especially companies in Belgium, France, the Netherlands, Germany, and nearby European markets that need local China sourcing support. Typical clients are SMEs, importers, entrepreneurs, startups, e-commerce and Amazon sellers, retailers, and hospitality/procurement teams.
+
+## Why Wesley Sourcing Is Different
+
+- Physical presence in Yiwu, China - able to visit suppliers and inspect goods in person, not a remote broker.
+- European business understanding - the team understands European quality expectations, communication standards, and compliance concerns.
+- Transparent, performance-based pricing - a one-time retainer (typically ?300-?500) plus a sourcing commission of 3%-8% of order value, with no hidden fees.
+- Quality control before shipment - issues are found and corrected while goods are still in China.
+- Low MOQ support - suitable for smaller starting quantities, not only full-container orders.
+- Proven IP protection credibility - led the landmark Silvain v. Ye Yongqing Chinese art copyright case, in which the Beijing High Court (2025) upheld a RMB 5 million damages award (approx. ?650,000), the highest ever in a Chinese art copyright case.
+
+## Credibility Signals (E-E-A-T)
+
+- Operating since 2012 (13+ years of China sourcing experience).
+- Registered legal entity: Shanghai Wesley Import & Export Co., Ltd. (????????????).
+- Real named client testimonials from Belgium, the Netherlands, Germany, and France.
+- Landmark IP litigation experience (Silvain case), with multiple industry awards for IP enforcement.
 
 ## Useful Website Sections
 
@@ -37,10 +60,13 @@ Wesley Sourcing serves European buyers, especially companies in Belgium, France,
 - How it works: https://wesleysourcing.com/#how-it-works
 - China sourcing guide: https://wesleysourcing.com/#china-sourcing-guide
 - Supplier verification: https://wesleysourcing.com/#supplier-verification
+- Factory audit & private label: https://wesleysourcing.com/#factory-audit
 - Quality control: https://wesleysourcing.com/#quality-control
+- IP protection: https://wesleysourcing.com/#ip-protection
+- Pricing: https://wesleysourcing.com/#pricing
 - FAQ: https://wesleysourcing.com/#faq
 - Contact: https://wesleysourcing.com/#contact
 
-## Positioning
+## Positioning Summary
 
-Wesley Sourcing positions itself as a trusted China sourcing partner in Yiwu with local presence in China and European customer understanding. The company helps buyers reduce supplier risk, avoid quality issues, and coordinate sourcing from supplier search through shipment.
+Wesley Sourcing positions itself as a trusted China sourcing partner in Yiwu that combines local presence in China with European customer understanding. It helps European buyers reduce supplier risk, avoid quality problems, support low-MOQ and private-label orders, coordinate sourcing from supplier search through shipment, and protect intellectual property in China.

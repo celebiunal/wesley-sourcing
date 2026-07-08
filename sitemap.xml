@@ -1,9 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <!-- Homepage -->
     <url>
         <loc>https://wesleysourcing.com/</loc>
         <lastmod>2026-07-08</lastmod>
-        <changefreq>monthly</changefreq>
+        <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
+
+    <!--
+        FUTURE SEO LANDING PAGES
+        Uncomment and set <lastmod> as each dedicated page is published.
+        These are real, standalone URLs (NOT anchors) built around primary
+        and secondary search intents. Do not enable a URL before the page exists.
+
+    <url>
+        <loc>https://wesleysourcing.com/china-sourcing-agent-yiwu/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://wesleysourcing.com/supplier-verification-china/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://wesleysourcing.com/quality-control-china/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://wesleysourcing.com/low-moq-sourcing-china/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://wesleysourcing.com/private-label-china/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://wesleysourcing.com/factory-audit-china/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://wesleysourcing.com/china-purchasing-agent-europe/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://wesleysourcing.com/ip-protection-china/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    -->
 </urlset>
