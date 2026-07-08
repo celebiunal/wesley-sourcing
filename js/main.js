@@ -84,7 +84,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }, observerOptions);
     
     // Observe elements for animation
-    document.querySelectorAll('.service-card, .product-card, .news-card, .stat-card').forEach(el => {
+    document.querySelectorAll('.service-card, .product-card, .news-card, .stat-card, .guide-card, .faq-item').forEach(el => {
         el.style.opacity = '0';
         el.style.transform = 'translateY(20px)';
         el.style.transition = 'opacity 0.6s ease, transform 0.6s ease';
